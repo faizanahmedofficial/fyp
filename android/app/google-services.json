@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822494325336",
+    "project_id": "kashtkar-3a68f",
+    "storage_bucket": "kashtkar-3a68f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822494325336:android:8c5ccac3689508dda6f82d",
+        "android_client_info": {
+          "package_name": "com.fyp.kashtkaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822494325336-341dcscar7221n37ojg330uov09ugmj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUwlrz0IPi-EDtjNmSGYcesV44uVPHA3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822494325336-341dcscar7221n37ojg330uov09ugmj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
