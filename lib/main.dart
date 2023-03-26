@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:get/get.dart';
 import 'package:kashkaar/Services/firestoreServices.dart';
+import 'package:kashkaar/page/splashScreen.dart';
 import 'package:kashkaar/page/vendorPage/mainPageVendor.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
     return ResponsiveSizer(builder: (context, orientation, screenType) {
       return GetMaterialApp(
         // debugShowCheckedModeBanner: false,
-        home: MainPageAdmin(),
+        home: SplashScreen(),
         builder: EasyLoading.init(),
       );
     });
